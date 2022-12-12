@@ -2,6 +2,8 @@
 body {
     padding-top: 20px;
     padding-bottom: 20px;
+    background-image: url("../background.jpg");
+  
   }
   
   /* Everything but the jumbotron gets side spacing for mobile first views */
@@ -82,3 +84,6 @@ body {
   footer{
     margin-top: 40px;
   }
+.container{
+  background-color: whitesmoke
+}
